@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "last_updated": "2026-06-14T12:00:00Z",
+  "keys": [
+    {
+      "key": "DIMR-X7K9-P2LM-QW4R",
+      "tier": "premium",
+      "expires": "2026-12-31T23:59:59Z",
+      "created": "2026-06-01T10:00:00Z",
+      "hwid_lock": "",
+      "max_hwids": 1,
+      "status": "active",
+      "uses_left": null
+    },
+    {
+      "key": "ABCD-EFGH-IJKL-MNOP",
+      "tier": "premium",
+      "expires": "2026-12-31T23:59:59Z",
+      "created": "2026-06-01T10:00:00Z",
+      "hwid_lock": "",
+      "max_hwids": 1,
+      "status": "active",
+      "uses_left": null
+    },
+    {
+      "key": "1234-5678-9ABC-DEF0",
+      "tier": "standard",
+      "expires": "2026-09-30T23:59:59Z",
+      "created": "2026-06-01T10:00:00Z",
+      "hwid_lock": "",
+      "max_hwids": 1,
+      "status": "active",
+      "uses_left": null
+    }
+  ]
+}
